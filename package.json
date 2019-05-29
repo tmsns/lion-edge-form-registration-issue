@@ -7,10 +7,11 @@
   },
   "private": true,
   "dependencies": {
-    "@lion/core": "0.1.8",
-    "@lion/form": "0.1.15",
-    "@lion/radio": "0.1.13",
-    "@lion/radio-group": "0.1.15",
+    "@babel/polyfill": "^7.4.4",
+    "@lion/core": "0.1.9",
+    "@lion/form": "0.1.17",
+    "@lion/radio": "0.1.15",
+    "@lion/radio-group": "0.1.17",
     "@webcomponents/webcomponentsjs": "2.2.10"
   },
   "author": "Tom Nys",
